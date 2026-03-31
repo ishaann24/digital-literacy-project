@@ -1,0 +1,3 @@
+While researching cybercrime, what surprised me most was how simple and convincing many scams are—especially UPI frauds where victims lose money just by entering their PIN once. I didn’t realize that scammers rely more on psychological tricks like urgency, trust, and fear rather than advanced technical hacking. It was also shocking how quickly money can be transferred and how difficult it can be to recover it afterward.
+
+As a result, one habit I will personally change is being more cautious with payment requests and links. I will carefully verify every UPI collect request and never enter my PIN unless I am 100% sure I am sending money to a trusted person. I will also avoid clicking on unknown links and double-check messages before responding.
